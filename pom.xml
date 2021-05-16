@@ -8,6 +8,8 @@
 	<modules>
 		<module>auth-service</module>
 		<module>pomodoro-timer</module>
+		<module>quotes-stream</module>
+		<module>make-me-laugh</module>
 	</modules>
 
 	<parent>
